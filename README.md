@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about programming, coding, and comp
 
 🌟 **A little about me:**  
 💻 Currently studying Computer Science and Math at university. I'm also exploring Cybersecurity and Cloud Computing as a personal interest.  
-🎯 Focused on completing my first year at university and learning the basics of cloud security.  
+🎯 Focused on completing my second year at university and learning the basics of cloud security.  
 🌱 Always curious about cloud security and new advancements in the tech field.  
 🎨 Inspired by NetworkChuck and driven by the desire to continuously learn and grow in the field of tech.
 
