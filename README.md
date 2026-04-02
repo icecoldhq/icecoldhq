@@ -1,6 +1,7 @@
 # Yo, what's code? I'm Quinton.
 
-CS & Applied Math student. I learn, build, and document.
+CS & Applied Math student. I learn, build, and document.  
+Purpose: design reliable systems that reduce inefficiency and uncertainty.
 
 ## Currently Learning
 
