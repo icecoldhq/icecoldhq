@@ -52,8 +52,7 @@ https://medium.com/@qhero0506
 
 - Email: qhero0506@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/maqhawe-zondo-375214338  
-- Medium: https://medium.com/@qhero0506  
-- Devpost: https://devpost.com/icecoldhq  
+- Medium: https://medium.com/@qhero0506    
 - Discord: icecoldhq  
 
 Daemon (coming soon)
