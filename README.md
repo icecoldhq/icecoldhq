@@ -8,7 +8,6 @@ Purpose: design reliable systems that reduce inefficiency and uncertainty.
 **Computer Science**  
 - Programming (Theory + Python + C++)  
 - Computer Architecture / Systems  
-- Data Science  
 - Algorithms & Data Structures  
 
 **Mathematics**  
@@ -44,7 +43,7 @@ See full details: [Portfolio](https://github.com/icecoldhq/portfolio)
 ---
 
 ## I write here:
-https://medium.com/@qhero0506
+[Substack](https://substack.com/@icecoldhq28)
 
 ---
 
@@ -52,7 +51,7 @@ https://medium.com/@qhero0506
 
 - Email: qhero0506@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/maqhawe-zondo-375214338  
-- Medium: https://medium.com/@qhero0506    
+- Substack: https://substack.com/@icecoldhq28
 - Discord: icecoldhq  
 
 Daemon (coming soon)
