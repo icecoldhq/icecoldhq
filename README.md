@@ -49,7 +49,9 @@ See full details: [Portfolio](https://github.com/icecoldhq/portfolio)
 - Discord: icecoldhq  
 
 Daemon (coming soon...)
+
 _Daniel Miessler referrence_
+
 ---
 
 ## About Me
