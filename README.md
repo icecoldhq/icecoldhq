@@ -1,14 +1,12 @@
 # Yo, what's code? I'm Quinton.
 
 CS & Applied Math student. I learn, build, and document.  
-Purpose: design reliable systems that reduce inefficiency and uncertainty.
-
+Purpose: Become a ML/AI Engineer who solves problems and makes an impact for businesses and people. 
 ## Currently Learning
 
 **Computer Science**  
 - Programming (Theory + Python + C++)  
 - Computer Architecture / Systems  
-- Algorithms & Data Structures  
 
 **Mathematics**  
 - Calculus 
@@ -16,25 +14,21 @@ Purpose: design reliable systems that reduce inefficiency and uncertainty.
 - Discrete Math
 - Statistics and Probability
 
-**SWE / General Skills**  
+**SWE**  
+- Programming languges: Python and C++
 - Terminal / Command Line (Ubuntu/Linux) 
 - Git & GitHub 
-- Clean code  
-- Debugging  
-- Testing  
-- Documentation  
 
 ## Working On
 
-- Writing about what I learn  
-- Experiments exploring new ideas  
-- Subject projects in CS & Math  
-- Integration projects combining multiple skills  
-- Annual capstone integrating everything learned
-
+- Graduating from university to get my CS and Math Degree
+- Mastering CS and Math indepenent of formal edcuation
+- AI/ML skills and capability
+- Personal brand
+  
 ## Projects
 
-- **Subject Projects** – focused learning projects  
+- **Unit Projects** – focused learning projects  
 - **Integration Projects** – combining multiple skills  
 - **Experiments** – curiosity-driven explorations  
 - **Capstone Project** – major year-end work  
@@ -62,5 +56,4 @@ _Daniel Miessler referrence_
 ## About Me
 
 Focused on CS & Math.
-I will be a ML/AI Engineer who solves problems and makes an impact for businesses and people. 
 Outside coding: taking walks, reading, and listening to audio dramas.
