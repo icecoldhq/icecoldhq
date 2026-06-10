@@ -50,8 +50,6 @@ See full details: [Portfolio](https://github.com/icecoldhq/portfolio)
 
 Daemon (coming soon...)
 
-_Daniel Miessler referrence_
-
 ---
 
 ## About Me
