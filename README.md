@@ -28,10 +28,9 @@ Purpose: Become a ML/AI Engineer who solves problems and makes an impact for bus
   
 ## Projects
 
-- **Unit Projects** – focused learning projects  
-- **Integration Projects** – combining multiple skills  
-- **Experiments** – curiosity-driven explorations  
-- **Capstone Project** – major year-end work  
+- Education: CS and Math 
+- Software Engineering 
+- AI/ML Engineering
 
 See full details: [Portfolio](https://github.com/icecoldhq/portfolio)
 
