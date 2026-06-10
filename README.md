@@ -13,7 +13,8 @@ Purpose: design reliable systems that reduce inefficiency and uncertainty.
 **Mathematics**  
 - Calculus 
 - Linear Algebra 
-- Discrete Math  
+- Discrete Math
+- Statistics and Probability
 
 **SWE / General Skills**  
 - Terminal / Command Line (Ubuntu/Linux) 
@@ -54,11 +55,12 @@ See full details: [Portfolio](https://github.com/icecoldhq/portfolio)
 - Substack: https://substack.com/@icecoldhq28
 - Discord: icecoldhq  
 
-Daemon (coming soon)
-
+Daemon (coming soon...)
+_Daniel Miessler referrence_
 ---
 
 ## About Me
 
-Focused on CS & Math.  
+Focused on CS & Math.
+I will be a ML/AI Engineer who solves problems and makes an impact for businesses and people. 
 Outside coding: taking walks, reading, and listening to audio dramas.
